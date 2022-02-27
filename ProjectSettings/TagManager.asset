@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Character
+  - Bullet
+  - CANVAS_MAIN_TAG
+  - CANVAS_SETTING_TAG
+  - CANVAS_LEVEL_TAG
+  - SETTING_SLIDER
+  - BUTTON_LEVEL
+  - Enemy
+  - RecordCanvas
+  - Score
+  - HeartEnemy
+  - SET_DIFFICULT
+  - CANVAS_ANDROID_CONTROL_TAG
+  - EXIT_TAG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Backgarund
+  - Water
+  - UI
+  - MoveEnemyMask
+  - Obstacle
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGraund
+    uniqueID: 1953454669
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Charachter
+    uniqueID: 3052714365
+    locked: 0
+  - name: Enemy4
+    uniqueID: 2318460637
+    locked: 0
+  - name: Enemy3
+    uniqueID: 1895648935
+    locked: 0
+  - name: Android_Control
+    uniqueID: 2660773179
+    locked: 0
